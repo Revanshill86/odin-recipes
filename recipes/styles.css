@@ -1,0 +1,51 @@
+*
+{
+    color: #0094C6;
+    background-color: #f5f5dc;
+}
+
+.title
+{
+    text-align: center;
+    background-color: #2F2F2F;
+    font-size: 50px; 
+}
+
+img
+{
+    height: auto;
+    width: 1500px;
+    display: table;
+    margin: 0 auto;
+}
+
+ul.links
+{
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0; 
+    overflow: hidden;
+    display: table;
+    padding-top: 25px;
+     
+}
+
+li
+{
+    float: left;
+    
+}
+
+li a
+{
+    display: block;
+    padding: 16px;
+    text-decoration: none;
+    background-color: #2F2F2F;
+}
+
+li a:hover
+{
+    background-color: white;
+}
+
