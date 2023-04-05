@@ -19,7 +19,7 @@ img
     margin: 0 auto;
 }
 
-ul.links
+.ul_links
 {
     list-style-type: none;
     margin: 0 auto;
@@ -30,22 +30,27 @@ ul.links
      
 }
 
-li
-{
-    float: left;
-    
-}
-
 li a
 {
     display: block;
     padding: 16px;
+    margin-top: 5px;
     text-decoration: none;
     background-color: #2F2F2F;
+    
 }
 
 li a:hover
 {
     background-color: white;
+}
+
+
+.gumbo
+{
+    color: black;
+    float: none;
+    list-style: none;
+
 }
 
