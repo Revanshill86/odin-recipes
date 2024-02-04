@@ -23,6 +23,30 @@
 
 h2 
 {
-    background-color: red;
+    background-color: #3B322C;
     text-align: center;
+    color: #A17C6B;
+    
+}
+
+.title
+{
+    text-align: center;
+}
+
+img
+{
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+li 
+{
+    font-size: 20px;
+}
+
+p 
+{
+    font-size: 20px;
 }
