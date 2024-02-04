@@ -1,0 +1,28 @@
+* 
+{
+    background-color: #41dbdb;
+}
+
+.home-img
+{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.home-links
+{
+    text-align: center;
+}
+
+.home-title
+{
+    text-align: center;
+}
+
+h2 
+{
+    background-color: red;
+    text-align: center;
+}
